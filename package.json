@@ -16,7 +16,9 @@
   "description": "backend day2",
   "dependencies": {
     "@types/express": "^4.17.21",
+    "all": "^0.0.0",
     "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "esm": "^3.2.25",
     "express": "^4.19.2",
